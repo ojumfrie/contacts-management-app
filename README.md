@@ -55,25 +55,25 @@ Insert the records into the Contacts table:
 - [ ] Execute these SQL commands
     ```
     INSERT INTO [dbo].[Contacts] (Firstname,Lastname,BillingAddress,DeliveryAddress,Email,Password,CreatedDate)
-        VALUES ('Bob','Smith','Panacan Highway, Kilometer 14, Davao City, Davao del Sur','Panacan Highway, Kilometer 14, Davao City, Davao del Sur','bob.smith@mail.com','flexisourceit',GETDATE());
+        VALUES ('Bob','Smith','Panacan Highway, Kilometer 14, Davao City, Davao del Sur','Panacan Highway, Kilometer 14, Davao City, Davao del Sur','bob.smith@mail.com','?an3P@ssW0rd',GETDATE());
 
     INSERT INTO [dbo].[Contacts] (Firstname,Lastname,BillingAddress,DeliveryAddress,Email,Password,CreatedDate)
-        VALUES ('Juan','Carlos','1635 Quezon Avenue, Quezon City, Metro Manila','1635 Quezon Avenue, Quezon City, Metro Manila','juan.carlos@mail.com','flexisourceit',GETDATE());
+        VALUES ('Juan','Carlos','1635 Quezon Avenue, Quezon City, Metro Manila','1635 Quezon Avenue, Quezon City, Metro Manila','juan.carlos@mail.com','?an3P@ssW0rd',GETDATE());
 
     INSERT INTO [dbo].[Contacts] (Firstname,Lastname,BillingAddress,DeliveryAddress,Email,Password,CreatedDate)
-        VALUES ('Mike','Jones','Nono Libaga Drive, near Public Market, Tanjay, Negros Oriental','Nono Libaga Drive, near Public Market, Tanjay, Negros Oriental','mike.jones@mail.com','flexisourceit',GETDATE());
+        VALUES ('Mike','Jones','Nono Libaga Drive, near Public Market, Tanjay, Negros Oriental','Nono Libaga Drive, near Public Market, Tanjay, Negros Oriental','mike.jones@mail.com','?an3P@ssW0rd',GETDATE());
 
     INSERT INTO [dbo].[Contacts] (Firstname,Lastname,BillingAddress,DeliveryAddress,Email,Password,CreatedDate)
-        VALUES ('Olive','Yew','147 Santo Domingo Street 1100, Quezon City, Quezon City','147 Santo Domingo Street 1100, Quezon City, Quezon City','olive.yew@mail.com','flexisourceit',GETDATE());
+        VALUES ('Olive','Yew','147 Santo Domingo Street 1100, Quezon City, Quezon City','147 Santo Domingo Street 1100, Quezon City, Quezon City','olive.yew@mail.com','?an3P@ssW0rd',GETDATE());
 
     INSERT INTO [dbo].[Contacts] (Firstname,Lastname,BillingAddress,DeliveryAddress,Email,Password,CreatedDate)
-        VALUES ('Aida','Bugg','2/F Sycamore Arcade Building, Alabang-Zapote Road, Muntinlupa City, Metro Manila','2/F Sycamore Arcade Building, Alabang-Zapote Road, Muntinlupa City, Metro Manila','aida.bugg@mail.com','flexisourceit',GETDATE());
+        VALUES ('Aida','Bugg','2/F Sycamore Arcade Building, Alabang-Zapote Road, Muntinlupa City, Metro Manila','2/F Sycamore Arcade Building, Alabang-Zapote Road, Muntinlupa City, Metro Manila','aida.bugg@mail.com','?an3P@ssW0rd',GETDATE());
     ```
 
 ## SQL LOGIN ACCOUNT CREATION
 
 - UserID: jane.doe
-- Password: flexisourceit
+- Password: ?an3P@ssW0rd
 
 Object Explorer window:
 - [ ] Expand "Security" folder
